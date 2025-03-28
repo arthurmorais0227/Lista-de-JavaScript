@@ -1,4 +1,4 @@
-let amoMinhaNamorada = false;
+let amoMinhaNamorada = true;
 let minhaNamoradaMeAma = true;
 
 if(amoMinhaNamorada == true && minhaNamoradaMeAma == true) {
