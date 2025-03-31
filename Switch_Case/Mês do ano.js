@@ -37,6 +37,6 @@ switch (mês) {
   case mês = 12:
     console.log("Dezembro!");
     break;
-  default:
+    default:
     console.log("Número inválido! Insira um número de 1 a 12.");
 }
